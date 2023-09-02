@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guy.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="guy0000" x="0" y="0" width="567" height="534" frameX="-5" frameY="-3" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0001" x="0" y="0" width="567" height="534" frameX="-5" frameY="-3" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0002" x="567" y="0" width="553" height="560" frameX="-38" frameY="-28" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0003" x="567" y="0" width="553" height="560" frameX="-38" frameY="-28" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0004" x="1120" y="0" width="543" height="582" frameX="-26" frameY="-11" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0005" x="1120" y="0" width="543" height="582" frameX="-26" frameY="-11" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0006" x="0" y="582" width="559" height="547" frameX="-13" frameY="-4" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0007" x="0" y="582" width="559" height="547" frameX="-13" frameY="-4" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0008" x="559" y="582" width="567" height="531" frameX="-4" frameY="-1" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0009" x="559" y="582" width="567" height="531" frameX="-4" frameY="-1" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0010" x="1126" y="582" width="569" height="525" frameX="-1" frameY="0" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0011" x="1126" y="582" width="569" height="525" frameX="-1" frameY="0" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0012" x="0" y="1129" width="569" height="522" frameX="0" frameY="0" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0013" x="0" y="1129" width="569" height="522" frameX="0" frameY="0" frameWidth="591" frameHeight="593"/>
+	<SubTexture name="guy0014" x="569" y="1129" width="569" height="521" frameX="0" frameY="0" frameWidth="591" frameHeight="593"/>
+</TextureAtlas>

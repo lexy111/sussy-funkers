@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				223,
+				190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				326,
+				112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				405,
+				113
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				112
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				321,
+				247
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				431,
+				429
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "AttackNote",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"healthicon_scale": 1,
+	"gameover_properties": [
+		"bf-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/purpleposter",
+	"position": [
+		-30,
+		170
+	],
+	"healthicon_offsets": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		135,
+		0,
+		235
+	],
+	"healthicon": "purold",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		235
+	],
+	"camera_position": [
+		-380,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

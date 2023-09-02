@@ -1,0 +1,2 @@
+pon la imagen en mods/images
+value 1 imagen

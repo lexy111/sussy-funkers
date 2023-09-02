@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-292
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "orange"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/orange",
+	"position": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		125,
+		31,
+		214
+	],
+	"healthicon": "purple",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		31,
+		214
+	],
+	"camera_position": [
+		0,
+		420
+	],
+	"sing_duration": 5.5,
+	"scale": 1
+}

@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				73,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/purple-gf",
+	"position": [
+		0,
+		0
+	],
+	"healthbar_colors2": [
+		240,
+		124,
+		32
+	],
+	"healthicon": "purple",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		124,
+		32
+	],
+	"camera_position": [
+		-230,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

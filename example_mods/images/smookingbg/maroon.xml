@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maroon.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maroon0000" x="0" y="0" width="440" height="524" frameX="-31" frameY="-2" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0001" x="0" y="0" width="440" height="524" frameX="-31" frameY="-2" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0002" x="440" y="0" width="451" height="521" frameX="-1" frameY="-12" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0003" x="440" y="0" width="451" height="521" frameX="-1" frameY="-12" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0004" x="891" y="0" width="469" height="521" frameX="0" frameY="-3" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0005" x="891" y="0" width="469" height="521" frameX="0" frameY="-3" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0006" x="1360" y="0" width="451" height="518" frameX="-21" frameY="-1" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0007" x="1360" y="0" width="451" height="518" frameX="-21" frameY="-1" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0008" x="0" y="524" width="442" height="520" frameX="-31" frameY="-1" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0009" x="0" y="524" width="442" height="520" frameX="-31" frameY="-1" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0010" x="442" y="524" width="438" height="523" frameX="-35" frameY="0" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0011" x="442" y="524" width="438" height="523" frameX="-35" frameY="0" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0012" x="880" y="524" width="437" height="524" frameX="-36" frameY="0" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0013" x="880" y="524" width="437" height="524" frameX="-36" frameY="0" frameWidth="474" frameHeight="533"/>
+	<SubTexture name="maroon0014" x="1317" y="524" width="438" height="524" frameX="-36" frameY="0" frameWidth="474" frameHeight="533"/>
+</TextureAtlas>

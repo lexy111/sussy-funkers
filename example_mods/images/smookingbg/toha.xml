@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toha.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="toha0000" x="0" y="0" width="239" height="433" frameX="0" frameY="-1" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0001" x="0" y="0" width="239" height="433" frameX="0" frameY="-1" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0002" x="239" y="0" width="237" height="426" frameX="-7" frameY="-8" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0003" x="239" y="0" width="237" height="426" frameX="-7" frameY="-8" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0004" x="476" y="0" width="228" height="430" frameX="-13" frameY="-4" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0005" x="476" y="0" width="228" height="430" frameX="-13" frameY="-4" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0006" x="704" y="0" width="233" height="432" frameX="-6" frameY="-2" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0007" x="704" y="0" width="233" height="432" frameX="-6" frameY="-2" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0008" x="0" y="433" width="235" height="433" frameX="-3" frameY="-1" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0009" x="0" y="433" width="235" height="433" frameX="-3" frameY="-1" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0010" x="235" y="433" width="236" height="434" frameX="-2" frameY="0" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0011" x="235" y="433" width="236" height="434" frameX="-2" frameY="0" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0012" x="471" y="433" width="235" height="434" frameX="-2" frameY="0" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0013" x="471" y="433" width="235" height="434" frameX="-2" frameY="0" frameWidth="244" frameHeight="434"/>
+	<SubTexture name="toha0014" x="706" y="433" width="235" height="434" frameX="-3" frameY="0" frameWidth="244" frameHeight="434"/>
+</TextureAtlas>

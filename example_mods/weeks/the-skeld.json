@@ -1,0 +1,34 @@
+{
+	"storyName": "the skeld",
+	"hideFreeplay": false,
+	"weekBackground": "theskeldstage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"smoking-fool",
+			"orange",
+			[
+				255,
+				91,
+				15
+			]
+		],
+		[
+			"anxiety",
+			"purple",
+			[
+				126,
+				35,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "the skeld"
+}
